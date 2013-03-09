@@ -3,7 +3,7 @@ Description
 -----------
 
 Simply put, this script formats and returns mail log entries related to the
-search term. This script outputs the logs lines by message id 
+search term. Results are grouped by message id.
 
 
 Usage
