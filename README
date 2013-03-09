@@ -1,0 +1,39 @@
+
+Description
+-----------
+
+Simply put, this script formats and returns mail log entries related to the
+search term. This script outputs the logs lines by message id 
+
+
+Usage
+-----
+
+  Usage:
+    searchMailLogs.sh [-fti] <search_term>
+
+  Options:
+
+    -f
+      Search for messages from <email_address>
+
+    -t
+      Search for messages to <email_address>
+
+    -i
+      Search for messages with Message ID
+
+    -a
+      Also search through archived mail logs
+
+  Searches mail logs for anything matching specified terms
+
+License
+-------
+
+This script is licensed under the GPLv3. A copy of the license is distributed
+with this script.
+
+If not provided please view it at http://www.gnu.org/licenses/gpl.txt
+
+
